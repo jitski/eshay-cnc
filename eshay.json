@@ -1,0 +1,8 @@
+{
+  "port": "2245",
+  "users": {
+      "root": "root",
+      "bob": "password",
+      "charlie": "password2"
+  }
+}
